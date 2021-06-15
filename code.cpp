@@ -1,5 +1,5 @@
 /*
-ML: Predicting houseprice using logsitic regression
+ML: Predicting houseprice using locally weighted  regression
 */
 
 
